@@ -1,0 +1,2 @@
+rootProject.name = "MainComida"
+include ':app'

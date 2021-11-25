@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "710383198658",
+    "firebase_url": "https://primero-bf9ad-default-rtdb.firebaseio.com",
+    "project_id": "primero-bf9ad",
+    "storage_bucket": "primero-bf9ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710383198658:android:2895c53e7693236cdc365b",
+        "android_client_info": {
+          "package_name": "com.example.maincomida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710383198658-5utjc52etijn64hjivkqsfm60380rh9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFdtqhvi3AbTpSuRtuWuQ5r6XkaAlgPoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710383198658-5utjc52etijn64hjivkqsfm60380rh9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

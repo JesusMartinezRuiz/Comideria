@@ -1,0 +1,23 @@
+<resources>
+        <string name="app_name">MainComida</string>
+        <string name="met_modificar">modificarPlato</string>
+        <string name="met_eliminar">eliminarPlato</string>
+        <string name="met_crear">crearPlato</string>
+        <string name="met_ver">verPlatos</string>
+        <string name="met_volver">volver</string>
+        <string name="met_buscar">buscarPlato</string>
+        <string name="et_eliminar">Eliminar Plato</string>
+        <string name="et_modificar">Enviar modificaciones</string>
+        <string name="conten_escudo">Foto del Plato</string>
+        <string name="hint_nombre">Introduzca el nombre</string>
+        <string name="hint_ciudad">Introduzca la ciudad</string>
+        <string name="hint_fundacion">Introduzca el año de fundacion</string>
+        <string name="et_crear">Crear Plato</string>
+        <string name="et_buscar">Buscar</string>
+        <string name="et_verclubs">Ver Clubs</string>
+        <string name="conten_logo">Logotipo de liga</string>
+        <string name="et_volver">Volver</string>
+        <string name="buscar">BUSCAR</string>
+        <string name="club_a_buscar">PLATO A BUSCAR</string>
+        <string name="volver">VOLVER</string>
+</resources>
